@@ -1,4 +1,4 @@
-# Building  Apps with watsonx.ai and Streamlit! Langchain + PDF model seeding
+# Building  Apps with watsonx.ai and Streamlit! 
 This project shows how to use streamlit to make a frontend UI to interact with AI functionality.
 
 ![](images/First-page.png)
