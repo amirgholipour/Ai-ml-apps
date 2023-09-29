@@ -6,7 +6,7 @@ This project shows how to use streamlit to make a frontend UI to interact with A
 # Startup 🚀
 1. Open your terminal or console window
 2. cd into this project's base directory
-```
+
 3. Set up and activate the python virtual environment.
 ```Bash
 python3 -m venv ai-venv
