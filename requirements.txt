@@ -1,0 +1,8 @@
+ibm-generative-ai==0.2.7
+langchain==0.0.300
+streamlit==1.27.0
+pypdf
+sentence-transformers
+chromadb
+pydantic==1.10.11
+ibm_watson_machine_learning
